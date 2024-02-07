@@ -15,7 +15,7 @@ Navigation:
 
 Configuration & Setup:
 
-`git config --global [user.name](http://user.name/) "John Doe"`
+`git config --global [user.name](http://user.name/) "John Doe"`, 
 `git config --global user.email [johndoe@example.co](mailto:johndoe@example.com)m`
 
 Requirement: Install VS Code> Git (with Bash)
