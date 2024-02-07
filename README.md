@@ -5,12 +5,12 @@
 <h1> Git & GitHub Notes </h1> 
 
 Navigation
-`ls` - list directory
-`pwd` - current directory 
-`cd folderName` - change directory 
-`cd..` - previous directory (back)
-`mkdir` - make directory
-`clear` - clears the command directory
+`ls` - list directory,
+`pwd` - current directory ,
+`cd folderName` - change directory ,
+`cd..` - previous directory (back),
+`mkdir` - make directory,
+`clear` - clears the command directory,
 `ls -a` : shows all hidden files
 
 Configuration & Setup
@@ -32,10 +32,10 @@ Git Bash Codes
 
 ## Main Codes
 
-`git status` - checks the status
-`git add .` - adds all the files for staging
-`git add fileName` -adds particular file
-`git commit -m "Commit Message"` - commits
+`git status` - checks the status,
+`git add .` - adds all the files for staging,
+`git add fileName` -adds particular file,
+`git commit -m "Commit Message"` - commits,
 `git push origin branchName` - pushing the code to GitHub
 
 ## Pull Command
