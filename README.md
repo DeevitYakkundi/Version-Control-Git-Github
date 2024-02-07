@@ -1,9 +1,10 @@
 # Version-Control-Git-Github
 <br>
-<h3>This repo is dedicated to try and test different functionality of Git and Github ecosystem. </h1>
+<h3>This repository is dedicated to try and test different functionality of Git and Github ecosystem. </h1>
+<br>
+<h1> Git & GitHub Notes </h1> 
 
 Navigation
-
 `ls` - list directory
 `pwd` - current directory 
 `cd folderName` - change directory 
