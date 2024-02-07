@@ -4,7 +4,7 @@
 <br>
 <h1> Git & GitHub Notes </h1> 
 
-Navigation
+Navigation:
 `ls` - list directory,
 `pwd` - current directory ,
 `cd folderName` - change directory ,
@@ -13,7 +13,7 @@ Navigation
 `clear` - clears the command directory,
 `ls -a` : shows all hidden files
 
-Configuration & Setup
+Configuration & Setup:
 
 `git config --global [user.name](http://user.name/) "John Doe"`
 `git config --global user.email [johndoe@example.co](mailto:johndoe@example.com)m`
@@ -22,8 +22,7 @@ Requirement: Install VS Code> Git (with Bash)
 
 https://git-scm.com/
 
-Git Bash Codes
-
+Git Bash Codes:
 `git --verion` 
 
 ## Cloning (From GitHub to Local)
