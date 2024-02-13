@@ -1,6 +1,6 @@
 # Version-Control-Git-Github
 <br>
-<h3>This repository is dedicated to try and test different functionality of Git and Github ecosystem. </h1>
+<h3>This repository is dedicated to test different functionality of Git and Github ecosystem. </h1>
 <br>
 <h1> Git & GitHub Notes </h1> 
 
